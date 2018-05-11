@@ -1,3 +1,7 @@
+import * as _ from 'underscore';
+import * as $ from 'jquery';
+import * as page from 'page';
+
 $(document).ready(function () {
     //header module init
     header.init();
