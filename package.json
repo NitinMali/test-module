@@ -1,0 +1,41 @@
+{
+  "name": "modular",
+  "version": "1.0.0",
+  "description": "modular JS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "babel-core": "latest",
+    "babel-preset-es2015": "latest",
+    "del": "latest",
+    "gulp": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-babel": "latest",
+    "gulp-clean-css": "latest",
+    "gulp-cli": "latest",
+    "gulp-concat": "latest",
+    "gulp-connect": "latest",
+    "gulp-htmlclean": "latest",
+    "gulp-inject": "latest",
+    "gulp-sass": "latest",
+    "gulp-sourcemaps": "latest",
+    "gulp-uglify": "latest",
+    "gulp-util": "latest",
+    "gulp-webserver": "latest",
+    "karma": "^2.0.2",
+    "karma-chai": "^0.1.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-coverage": "^1.1.2",
+    "karma-mocha": "^1.3.0",
+    "karma-requirejs": "^1.1.0",
+    "mocha": "^5.1.1"
+  }
+}
